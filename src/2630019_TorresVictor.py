@@ -196,7 +196,7 @@ except ValueError:
 
 
 # ============================================================
-# 8. CONCLUSIONS
+# CONCLUSIONS
 # ============================================================
 # Lists are useful for storing and modifying collections of data.
 # They allow us to add, search for, and delete elements.
@@ -210,7 +210,7 @@ except ValueError:
 
 
 # ============================================================
-# 9. REFERENCES
+# REFERENCES
 # ============================================================
 # 1) Python Software Foundation. Built-in Types.
 #    https://docs.python.org/3/library/stdtypes.html
