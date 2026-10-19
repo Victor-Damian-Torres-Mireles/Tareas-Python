@@ -14,7 +14,7 @@
 
 
 # ==============================================================================
-# 4. EXECUTIVE SUMMARY
+# EXECUTIVE SUMMARY
 # ==============================================================================
 # Python provides the int type to store whole numbers and the float type to store numbers with decimal places.
 # Integers are useful for counting objects, while floats are used for measurements and calculations involving decimals.

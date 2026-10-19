@@ -14,7 +14,7 @@
 
 
 # ==============================================================================
-# 4. EXECUTIVE SUMMARY
+# EXECUTIVE SUMMARY
 # ==============================================================================
 # A string in Python is a data type used to store text, and it is immutable.
 # Basic string operations include concatenation, measuring length, extracting substrings,
